@@ -26,15 +26,11 @@ The dataset used in this project is the Titanic dataset, which contains informat
 - Matplotlib
 - Seaborn
 
-### Code Structure
+### Visualization
 
-The code is organized in a Jupyter Notebook with cells containing explanations and code snippets. The explanations are provided using mental models and analogies to make it easier for beginners to understand the concepts.
+The project includes visualization using Matplotlib and Seaborn to help you understand the distribution of features and their relationships with the target variable (Survived).
 
 ### Unit Test
 
 A simple unit test is included to ensure the correctness of the data preprocessing and feature engineering steps. The test checks that the resulting DataFrame has the expected columns and the correct number of columns.
-
-### Visualization
-
-The project includes visualization using Matplotlib and Seaborn to help you understand the distribution of features and their relationships with the target variable (Survived).
 
